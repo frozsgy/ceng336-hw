@@ -4,7 +4,7 @@ This repository aims to help you with your timer values calculations while using
 
 ## Background
 
-While working on the homework assignments for [METU](https://www.metu.edu.tr) [CENG336 Introduction to Embedded Systems Development](https://github.com/frozsgy/METU/tree/master/CENG336) course, I got bored of doing the same mundane calculations by hand whenever I needed to use a timer, or change the timer frequency. That lead to the idea of writing this Python script to handle these calculations quickly. 
+While working on the homework assignments for [METU](https://www.metu.edu.tr) [CENG336 Introduction to Embedded Systems Development](https://github.com/frozsgy/ceng336-hw) course, I got bored of doing the same mundane calculations by hand whenever I needed to use a timer, or change the timer frequency. That lead to the idea of writing this Python script to handle these calculations quickly. 
 
 Theoretically, any PIC Microcontroller using the same timers should work with this script nicely as well, but I don't have any and I don't have any intention to get any either. So, use at your own risk! 
 
